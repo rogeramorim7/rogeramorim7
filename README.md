@@ -3,9 +3,7 @@
 ## Hello, World! I am Roger
 
 <div align="center">
-  <img src="./image.jpg" alt="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7340024d-94b9-42bf-88b4-2faafd268e1a" />
-" width="80" height="120">
-</div>
+  <img src="./image.jpg" 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/roger-de-amorim-300a14307/" target="_blank">
