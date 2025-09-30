@@ -3,7 +3,7 @@
 ## Hello, World! I am Roger
 
 <div align="center">
-  <img src="https://share.google/images/jkOwCehPJqkIS9hPe" alt="Pixel Art Character" width="80" height="120">
+  <img src="https://art.pixilart.com/f3cba75e150d757.png" alt="Pixel Art Character" width="80" height="120">
 </div>
 
 <div align="center">
