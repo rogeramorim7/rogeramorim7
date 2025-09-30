@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=47576e&height=120&section=header"/>
+<img width="100%" src="https://art.pixilart.com/15365a8f389a8a4.gif"/>
 
 ## Hello, World! I am Roger
 
