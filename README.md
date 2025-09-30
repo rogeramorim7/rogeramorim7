@@ -4,10 +4,6 @@
 ## Hello, World! I am Roger
 
 <div align="center">
-  <img src="https://art.pixilart.com/f3cba75e150d757.png" alt="Pixel Art Character" width="80" height="120">
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/roger-de-amorim-300a14307/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
