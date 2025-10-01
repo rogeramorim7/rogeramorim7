@@ -7,8 +7,8 @@
   <!-- Title -->
   ## Hello, I'm Roger 👋
   
-  <!-- Naruto Pixel Art -->
-  <img src="https://raw.githubusercontent.com/rogeramorim7/assets/main/naruto-pixel-art.png" alt="Naruto Pixel Art" width="120"/>
+  <!-- Pixel art Tux -->
+  <img src="https://i.imgur.com/nVYarV4.png" width="120"/>
 
   <!-- Intro -->
   <p>🔭 Studying Accounting • 👨‍💻 Building cool projects • 🌱 Learning every day</p>
