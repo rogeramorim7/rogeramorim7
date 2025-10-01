@@ -1,4 +1,4 @@
-<!--
+<img width="2560" height="1381" alt="image" src="https://github.com/user-attachments/assets/9a65da6e-8d9b-4435-843e-8052538bd5d6" /><!--
   Animated Header with Wave Effect
 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&"/>
@@ -80,7 +80,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="PHP" src="https://pngimg.com/d/php_PNG35.png">
+  <img align="center" alt="PHP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
   
   ### 🚀 Frameworks & Bibliotecas
   
