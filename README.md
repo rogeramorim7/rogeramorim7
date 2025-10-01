@@ -2,12 +2,10 @@
 
 <div align="center">
     <h1>Hello, World! I am Roger 👋</h1>
-  
-    <p>
-    🎓 Estudante de **Contabilidade** com paixão por **Desenvolvimento de Software**.<br>
-    🛠️ Focado em construir projetos práticos e aplicar conhecimentos de **análise de dados**.<br>
-    🌱 Em constante aprendizado, buscando relacionar finanças e tecnologia.
-  </p>
+
+    <p>🎓 Estudante de **Contabilidade** com paixão por **Desenvolvimento de Software**.</p>
+  <p>🛠️ Focado em construir projetos práticos e aplicar conhecimentos de **análise de dados**.</p>
+  <p>🌱 Em constante aprendizado, buscando relacionar finanças e tecnologia.</p>
 </div>
 
 ---
