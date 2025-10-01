@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontColor=ffffff&fontSize=40" alt="Header"/>
-<img width="100%" src="https://giffiles.alphacoders.com/121/12161.gif"/>
+<img width="100%" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif"/>
 
 ## Hello, World! I am Roger
 
