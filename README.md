@@ -21,17 +21,39 @@
 
 ---
 
-<div align="center">
-  <h2>Activity</h2>
-  <img src="https://raw.githubusercontent.com/rogeramorim7/rogeramorim7/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
+name: Snake Animation
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [ main ]
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: platane/snk@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: ./output/github-contribution-grid-snake.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake"
+          git push
 
 ---
 
 <div align="center">
   <h2>Projects</h2>
   <p>
-    <a href="https://github.com/rogeramorim7/calculadora-de-impostos">Calculadora de Impostos</a>
+    <a href="https://github.com/rogeramorim7/calculadora-impostos-br-streamlit">Calculadora de Impostos</a>
   </p>
 </div>
 
