@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontColor=ffffff&fontSize=40" alt="Header"/>
-<img width="30%" src="https://camo.githubusercontent.com/51e3ba04648335b96ed09750bee063d7fe7c1488121eca897bdf5b83d854ffac/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3132312f31323136312e676966"/>
+<img width="50%" src="https://camo.githubusercontent.com/51e3ba04648335b96ed09750bee063d7fe7c1488121eca897bdf5b83d854ffac/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3132312f31323136312e676966"/>
 
 ## Hello, World! I am Roger
 
