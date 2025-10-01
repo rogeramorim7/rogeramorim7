@@ -22,6 +22,22 @@
 ---
 
 <div align="center">
+  <h2>Activity</h2>
+  <img src="https://raw.githubusercontent.com/rogeramorim7/rogeramorim7/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>Projects</h2>
+  <p>
+    <a href="https://github.com/rogeramorim7/calculadora-de-impostos">Calculadora de Impostos</a>
+  </p>
+</div>
+
+---
+
+<div align="center">
   <h2>Contact</h2>
   <p>
     <a href="https://linkedin.com/in/roger-de-amorim-300a14307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
