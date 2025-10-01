@@ -1,13 +1,13 @@
 <!--
   Animated Header with Wave Effect
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Roger%20Amorim&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20|%20Python%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&"/>
 
 <!--
   Animated Typing Effect for Introduction
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Eu+sou+o+Roger+👋;Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+Web;Sempre+aprendendo+algo+novo!;&color=70A5FD" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+I+am+Roger+👋;"/>
 </div>
 
 <!--
@@ -15,14 +15,6 @@
 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  ### 🚀 Sobre Mim
-  
-  🎯 **Desenvolvedor apaixonado por tecnologia e inovação**  
-  💼 **Focado em desenvolvimento web e automação**  
-  🌱 **Sempre em busca de novos desafios e conhecimentos**  
-  📍 **Brasil**  
-  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
