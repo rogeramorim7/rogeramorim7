@@ -7,7 +7,7 @@
   Animated Typing Effect for Introduction
 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+I+am+Roger+👋;Python+%7C+JavaScript+%7C+Web;Sempre+aprendendo+algo+novo!;&color=70A5FD" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+I+am+Roger+👋;" />
 </div>
 
 <!--
