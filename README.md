@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&fontColor=ffffff&fontSize=40" alt="Header Wave"/>
 
 <div align="center">
-    <h1>Olá, Sou Roger Amorim 👋</h1>
+    <h1>Hello, World! I am Roger 👋</h1>
   
     <p>
     🎓 Estudante de **Contabilidade** com paixão por **Desenvolvimento de Software**.<br>
