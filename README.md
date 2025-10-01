@@ -110,16 +110,6 @@
 </div>
 
 <br>
-
-<!--
-  Fun Facts Section
--->
-<div align="center">
-  <h2>🎯 Curiosidades sobre mim</h2>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=20&center=true&vCenter=true&width=600&height=50&duration=3000&lines=🔭+Trabalhando+em+projetos+Python;🌱+Aprendendo+novas+tecnologias;⚡+Automatização+é+minha+paixão;🎮+Gamer+nas+horas+vagas;&color=70A5FD" />
-</div>
-
 <br>
 
 <!--
@@ -146,16 +136,6 @@
 </div>
 
 <br>
-
-<!--
-  Motivational Quote
--->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=O%20único%20modo%20de%20fazer%20um%20trabalho%20excelente%20é%20amar%20o%20que%20você%20faz&author=Steve%20Jobs" alt="Quote" />
-</div>
-
-<br>
-
 <!--
   Footer with Wave Effect
 -->
