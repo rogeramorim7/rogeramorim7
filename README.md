@@ -21,32 +21,11 @@
 
 ---
 
-name: Snake Animation
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches: [ main ]
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: platane/snk@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./output/github-contribution-grid-snake.svg
-
-      - name: Commit and push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Update snake"
-          git push
+<div align="center">
+  <h2>📈 Atividade Recente</h2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rogeramorim7&theme=dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&bg_color=0d1117" alt="Activity Graph" style="max-width: 100%; height: auto;"/>
+  
+    </div>
 
 ---
 
