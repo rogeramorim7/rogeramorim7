@@ -8,7 +8,7 @@
   ## Hello, I'm Roger 👋
   
   <!-- Naruto Pixel Art -->
-  <img src="https://i.gifer.com/embedded/download/YAS0.gif" alt="Naruto Pixel Art" width="120"/>
+  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" alt="Naruto Pixel Art" width="120"/>
 
   <!-- Intro -->
   <p>🔭 Studying Accounting • 👨‍💻 Building cool projects • 🌱 Learning every day</p>
