@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontColor=ffffff&fontSize=40" alt="Header"/>
-<img width="30%" src="https://shazee-04.github.io/naruto-game-3.1/resources/sprites/runbackward.gif"/>
+<img width="15%" src="https://shazee-04.github.io/naruto-game-3.1/resources/sprites/runbackward.gif"/>
 
 ## Hello, World! I am Roger
 
