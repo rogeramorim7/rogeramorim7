@@ -53,11 +53,6 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeramorim7&layout=compact&hide_border=true&title_color=70A5FD&text_color=c9d1d9&bg_color=0d1117&border_radius=15&langs_count=8" alt="Roger's Top Languages" />
 </div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rogeramorim7&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" alt="Roger's GitHub Streak" />
-</div>
-
 <br>
 
 <!--
