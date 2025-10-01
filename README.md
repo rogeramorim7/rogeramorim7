@@ -8,7 +8,7 @@
   ## Hello, I'm Roger 👋
   
   <!-- Naruto Pixel Art -->
-  <img src="https://raw.githubusercontent.com/rogeramorim7/assets/main/naruto-pixel-art.png" alt="Naruto Pixel Art" width="120"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYmxod3N5a2h2ZTcweTFtZmZ5bHQ0MjY1eWR3M3FjcmNjeDhjOHRuMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fvGZ6FVc1hYrdQBjo9/source.gif" alt="Naruto Pixel Art" width="120"/>
 
   <!-- Intro -->
   <p>🔭 Studying Accounting • 👨‍💻 Building cool projects • 🌱 Learning every day</p>
