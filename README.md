@@ -16,14 +16,6 @@
 </div>
 
 <br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rogeramorim7&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" alt="Roger's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeramorim7&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" alt="Roger's Top Languages" />
-</div>
-
-<br>
-
 ### Languages Used in My Projects
 
 <div align="center">
