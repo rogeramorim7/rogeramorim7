@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=47576e&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontColor=ffffff&fontSize=40" alt="Header"/>
 <img width="100%" src="https://giffiles.alphacoders.com/121/12161.gif"/>
 
 ## Hello, World! I am Roger
