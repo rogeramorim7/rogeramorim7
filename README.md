@@ -16,7 +16,7 @@
 </div>
 
 <br>
-### Languages Used in My Projects
+## Languages Used in My Projects
 
 <div align="center">
   <!-- Dark-themed GitHub Stats -->
