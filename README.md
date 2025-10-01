@@ -59,6 +59,19 @@ Languages Used in My Projects
 
 </div>
 
+<!--
+  Projects Showcase
+-->
+<h2 align="center">Projetos em Destaque</h2>
+
+<div align="center">
+  
+  <a href="https://github.com/rogeramorim7/calculadora-impostos-br-streamlit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rogeramorim7&repo=calculadora-impostos-br-streamlit&theme=radical&hide_border=true&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&icon_color=70A5FD" />
+  </a>
+
+</div>
+
   <div align="center">
 <br>
 
