@@ -25,12 +25,6 @@ Languages Used in My Projects
 </div>
 
   <div align="center">
-  <!-- Green Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color=00FF00" alt="Snake animation"/>
-</div>
-
-</div>
-
 <br>
 
 <div align="center">
