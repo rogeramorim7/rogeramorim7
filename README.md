@@ -2,9 +2,6 @@
 
 <div align="center">
     <h1>Hello, World! I am Roger 👋</h1>
-    
-    <p>Accounting student focused on software development and data analysis.</p>
-    <p>Building practical projects that bridge finance and technology.</p>
 </div>
 
 ---
