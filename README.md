@@ -17,7 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="SQL e PostgreSQL" alt="PostgreSQL"/>
 
 </div>
----
 
 ## Tecnologias e ferramentas
 
