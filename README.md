@@ -37,25 +37,10 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, APIs, 
 </div>
 
 ### TypeScript
-
-Minha principal linguagem para desenvolvimento de aplicações e APIs, utilizando tipagem estática para aumentar a segurança e a manutenção do código.
-
 ### JavaScript
-
-Utilizado no desenvolvimento web, manipulação de interfaces e construção da lógica de aplicações.
-
 ### HTML
-
-Responsável pela estrutura e organização semântica das interfaces web.
-
 ### CSS
-
-Utilizado para criação de layouts, responsividade e estilização de interfaces.
-
 ### SQL
-
-Aplicado na modelagem, consulta e administração de bancos de dados relacionais.
-
 ---
 
 ## Tecnologias e ferramentas
@@ -81,25 +66,10 @@ Aplicado na modelagem, consulta e administração de bancos de dados relacionais
 </div>
 
 ### Node.js
-
-Ambiente utilizado para criação de servidores, APIs REST e regras de negócio no backend.
-
 ### React
-
-Biblioteca utilizada para desenvolvimento de interfaces web componentizadas e interativas.
-
 ### PostgreSQL
-
-Banco de dados relacional utilizado em sistemas financeiros, administrativos e multiempresa.
-
 ### Prisma ORM
-
-Ferramenta utilizada para modelagem do banco de dados, migrations e integração entre aplicações TypeScript e PostgreSQL.
-
 ### Git e GitHub
-
-Utilizados para versionamento de código, organização de branches, documentação e gerenciamento da evolução dos projetos.
-
 ---
 
 ## Projetos em desenvolvimento
