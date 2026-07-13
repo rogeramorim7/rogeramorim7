@@ -1,11 +1,4 @@
 <div align="center">
-
-# Roger
-
-**Desenvolvimento de sistemas · Gestão financeira · Construção civil**
-
-Estudante de Ciências Contábeis e desenvolvedor de soluções para organização, automação e controle de operações empresariais.
-
 </div>
 
 ---
