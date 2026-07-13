@@ -28,12 +28,6 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, APIs, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="SQL e PostgreSQL" alt="PostgreSQL"/>
 
 </div>
-
-### TypeScript
-### JavaScript
-### HTML
-### CSS
-### SQL
 ---
 
 ## Tecnologias e ferramentas
@@ -57,12 +51,6 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, APIs, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" title="npm" alt="npm"/>
 
 </div>
-
-### Node.js
-### React
-### PostgreSQL
-### Prisma ORM
-### Git e GitHub
 ---
 
 ## Projetos em desenvolvimento
@@ -79,9 +67,9 @@ Sistema para gerenciamento de clientes, cobranças, organizações, usuários, m
 * APIs REST;
 * Modelagem de banco de dados.
 
-### Central Peters & Amorim
+### Operações Administrativas
 
-Sistema interno criado para centralizar operações administrativas de uma construtora.
+Sistema criado para centralizar operações administrativas de uma construtora.
 
 **Áreas contempladas:**
 
@@ -106,7 +94,6 @@ Sistemas de gestão empresarial
 Arquitetura SaaS
 Automação de processos
 Finanças e contabilidade
-Construção civil
 Modelagem de bancos de dados
 Tecnologia aplicada a negócios
 ```
@@ -128,12 +115,9 @@ Tecnologia aplicada a negócios
 
 ## Objetivo
 
-Construir sistemas que transformem processos manuais e desorganizados em operações simples, mensuráveis e eficientes.
+Construir sistemas que transformem processos manuais e desorganizados em operações simples e eficientes.
 
 ---
 
 <div align="center">
-
-**Tecnologia aplicada a problemas reais de gestão.**
-
 </div>
