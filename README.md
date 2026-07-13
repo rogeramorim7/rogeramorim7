@@ -1,81 +1,176 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&fontColor=ffffff&fontSize=40" alt="Header"/>
-
-## Hello, World! I am Roger
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/roger-de-amorim-300a14307/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/rogerdeamorim_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:roger.amorim07@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
 
-<br>
-Languages Used in My Projects
+# Roger
 
-<div align="center">
-  <!-- Estatísticas GitHub escuro -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rogeramorim7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeramorim7&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-</div>
+**Desenvolvimento de sistemas · Gestão financeira · Construção civil**
 
-<!--
-  Seção de Skills
--->
-<h2 align="center">Skills</h2>
-
-<div align="center">
-  
-  ### Linguagens de Programação
-  
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  
-  ### Frameworks & Bibliotecas
-  
-  <img align="center" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  
-  ### Banco de Dados
-  
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  
-  ### Ferramentas & Desenvolvimento
-  
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+Estudante de Ciências Contábeis e desenvolvedor de soluções para organização, automação e controle de operações empresariais.
 
 </div>
 
-<!--
-  Projeto destacado
--->
-<h2 align="center">Projetos em Destaque</h2>
+---
 
-<div align="center">
-  
-  <a href="https://github.com/rogeramorim7/calculadora-impostos-br-streamlit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rogeramorim7&repo=calculadora-impostos-br-streamlit&theme=radical&hide_border=true&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&icon_color=70A5FD" />
-  </a>
+## Sobre mim
+
+Atuo na Peters & Amorim Construtora com controles financeiros, custos, estoque, orçamentos, marketing e tecnologia.
+
+Desenvolvo sistemas voltados para resolver problemas reais de gestão, especialmente nas áreas de construção civil, finanças, cobrança e automação de processos.
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento web, APIs, bancos de dados e arquitetura de sistemas empresariais.
+
+---
+
+## Linguagens
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" title="TypeScript" alt="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" title="JavaScript" alt="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" title="HTML5" alt="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" title="CSS3" alt="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="SQL e PostgreSQL" alt="PostgreSQL"/>
 
 </div>
 
-  <div align="center">
-<br>
+### TypeScript
+
+Minha principal linguagem para desenvolvimento de aplicações e APIs, utilizando tipagem estática para aumentar a segurança e a manutenção do código.
+
+### JavaScript
+
+Utilizado no desenvolvimento web, manipulação de interfaces e construção da lógica de aplicações.
+
+### HTML
+
+Responsável pela estrutura e organização semântica das interfaces web.
+
+### CSS
+
+Utilizado para criação de layouts, responsividade e estilização de interfaces.
+
+### SQL
+
+Aplicado na modelagem, consulta e administração de bancos de dados relacionais.
+
+---
+
+## Tecnologias e ferramentas
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" alt="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" title="React" alt="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" title="Prisma ORM" alt="Prisma"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git" alt="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub" alt="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" title="Visual Studio Code" alt="Visual Studio Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" title="npm" alt="npm"/>
+
+</div>
+
+### Node.js
+
+Ambiente utilizado para criação de servidores, APIs REST e regras de negócio no backend.
+
+### React
+
+Biblioteca utilizada para desenvolvimento de interfaces web componentizadas e interativas.
+
+### PostgreSQL
+
+Banco de dados relacional utilizado em sistemas financeiros, administrativos e multiempresa.
+
+### Prisma ORM
+
+Ferramenta utilizada para modelagem do banco de dados, migrations e integração entre aplicações TypeScript e PostgreSQL.
+
+### Git e GitHub
+
+Utilizados para versionamento de código, organização de branches, documentação e gerenciamento da evolução dos projetos.
+
+---
+
+## Projetos em desenvolvimento
+
+### Plataforma de cobrança
+
+Sistema para gerenciamento de clientes, cobranças, organizações, usuários, memberships, papéis e permissões.
+
+**Principais conceitos:**
+
+* Arquitetura multiempresa;
+* Autenticação e autorização;
+* Controle de acesso baseado em papéis;
+* APIs REST;
+* Modelagem de banco de dados.
+
+### Central Peters & Amorim
+
+Sistema interno criado para centralizar operações administrativas de uma construtora.
+
+**Áreas contempladas:**
+
+* Controle financeiro;
+* Contas a pagar e receber;
+* Controle de estoque;
+* Custos de obras;
+* Usuários e permissões;
+* Organização de processos internos.
+
+### Organizador de tarefas
+
+Aplicação para organizar tarefas operacionais, definir prioridades e indicar o próximo trabalho que deve ser executado.
+
+---
+
+## Áreas de interesse
+
+```text
+Desenvolvimento backend
+Sistemas de gestão empresarial
+Arquitetura SaaS
+Automação de processos
+Finanças e contabilidade
+Construção civil
+Modelagem de bancos de dados
+Tecnologia aplicada a negócios
+```
+
+---
+
+## Atualmente estudando
+
+* Arquitetura de APIs;
+* Autenticação com access token e refresh token;
+* Controle de acesso com roles e permissions;
+* Sistemas multiempresa;
+* Modelagem de bancos de dados relacionais;
+* Testes automatizados;
+* Segurança de aplicações;
+* Organização e qualidade de código.
+
+---
+
+## Objetivo
+
+Construir sistemas que transformem processos manuais e desorganizados em operações simples, mensuráveis e eficientes.
+
+---
 
 <div align="center">
-  <p><b>Visitors Count</b></p>
-  <p><img src="https://komarev.com/ghpvc/?username=rogeramorim7&style=flat&color=blue" alt="Visitors Count"></p>
+
+**Tecnologia aplicada a problemas reais de gestão.**
+
 </div>
