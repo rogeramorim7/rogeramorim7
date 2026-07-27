@@ -45,6 +45,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker" alt="Docker"/>
 
 <p align="center">
-  <img src="source.gif" alt="gif" width="100%">
+  <img src="source.gif" alt="gif" width="25%">
 </p>
 </div>
