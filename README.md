@@ -15,6 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" title="CSS3" alt="CSS3"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="SQL e PostgreSQL" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" title="Python" alt="Python"/>
 </div>
 
 ## Tecnologias e ferramentas
