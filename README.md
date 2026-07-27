@@ -43,9 +43,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" title="npm" alt="npm"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker" alt="Docker"/>
-</div>
 
 <br>
 <p align="center">
-  <img src=<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/212048c3-34a7-4eb4-b729-2fb523f2467c" alt="gif-animado" width="100%">
+  <img src=<img width="800" height="600" alt="image" src="https://www.gifcen.com/spider-man-gif-17/" alt="gif-animado" width="100%">
 </p>
+</div>
