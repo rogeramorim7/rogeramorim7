@@ -43,7 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" title="npm" alt="npm"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker" alt="Docker"/>
+
 <p align="center">
-  <img src="./assets/source.gif" alt="gif" width="100%">
+  <img src="source.gif" alt="gif" width="100%">
 </p>
 </div>
