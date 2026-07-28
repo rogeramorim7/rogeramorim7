@@ -44,7 +44,7 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker" alt="Docker"/>
 
-<p align="left">
+<p float: left>
   <img src="source.gif" alt="gif" width="5%">
 </p>
 </div>
